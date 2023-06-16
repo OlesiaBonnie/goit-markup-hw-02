@@ -14,8 +14,8 @@
     --dairy-color: #FCFCFC;
 }
 .body {
-    background-color: var(--white-color);
     font-family: "Roboto", sans-serif;
+    background-color: var(--white-color);
     font-style: normal;
     color: var(--slate-color);
     font-size: 16px;
@@ -45,7 +45,7 @@
 .list {
     list-style-type: none;
 }
-.nav-group link {
+.nav-group {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -221,7 +221,7 @@
 
 
 /*Portfolio.html*/
-.portfolio-filtres-section {}
+
 
 .filter-button {
     font-family: "Roboto", sans-serif;
